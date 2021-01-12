@@ -25,7 +25,7 @@ function TodoInput() {
 						));
 						setName('');
 					}}
-					className="btn btn-primary mx-2">Add</button>
+					className="btn btn-primary mx-2">Добавить</button>
 			</div>
 		</>
 	)
